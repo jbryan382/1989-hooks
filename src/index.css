@@ -9,4 +9,19 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  display: flex;
+  padding: 1rem;
+}
+
+li {
+  list-style: none;
+}
+
+.Title_section {
+  border: 1px solid black;
+  padding: 1rem;
+}
+
+.movie_list_section {
+  border: 1px solid black;
 }
